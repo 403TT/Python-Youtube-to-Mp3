@@ -1,0 +1,11 @@
+Environment ````
+This project was developed on a VirtualBox VM running Kali Linux, with Visual Studio Code used as the primary text editor.
+
+Initial Setup
+Ensure Python and venv are installed: (Will be developing in a virtual environment)
+______________________________________
+sudo apt update
+sudo apt install python3 python3-venv python3-pip -y
+______________________________________
+
+
